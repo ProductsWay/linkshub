@@ -6,9 +6,9 @@
     "cycle-scripts": "1.1.0"
   },
   "dependencies": {
-    "@cycle/dom": "^16.0.0",
-    "@cycle/run": "^3.0.0",
-    "xstream": "^10.3.0"
+    "@cycle/dom": "16.0.0",
+    "@cycle/run": "3.4.0",
+    "xstream": "10.9.0"
   },
   "scripts": {
     "start": "cycle-scripts start",

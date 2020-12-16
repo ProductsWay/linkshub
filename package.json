@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "cycle-scripts": "1.1.0"
+    "cycle-scripts": "2.1.1"
   },
   "dependencies": {
     "@cycle/dom": "^16.0.0",
